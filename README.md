@@ -19,3 +19,5 @@ flutter run
 <img src="https://github.com/hongvinhmobile/flutter_tarot_card/blob/master/screenshots/home2.png?raw=true" width=200/>
 <img src="https://github.com/hongvinhmobile/flutter_tarot_card/blob/master/screenshots/solve.png?raw=true" width=200/>
 </p>
+flutter pub get
+flutter run   
